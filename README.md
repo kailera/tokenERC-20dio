@@ -1,5 +1,10 @@
 # tokenERC-20dio
-Criaçao de token no padrão ERC-20 com Ethereum
+Criaçao de token no padrão ERC-20 em funcionamento na blockchain Ethereum.
+Recursos utilizados:
+- Metamask;
+- Remix Ethereum org
+- SafeMath (impede estouro de inteiros)
+- Faucet metamask para fake ETH e registro de contratos e operações.
 
 
 **Video: **
